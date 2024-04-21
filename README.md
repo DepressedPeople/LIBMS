@@ -10,7 +10,8 @@ Admin(Librarians)
 6.	Check current status of books.
 7.	Verify return.
 8.	Limit number of borrowable books
-9.	Alert on new books previously requested. 
+9.	Alert on new books previously requested.
+
 Users(Students, Teachers)
 1.	Borrow Book.
 2.	Return Book.
