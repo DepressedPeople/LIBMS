@@ -21,3 +21,13 @@ Users(Students, Teachers)
 6.	Register new user.
 7.	Request unavailable books.
 
+Technology Requirements:
+1.	Java Back-End: Java 8, Spring Framework, Spring MVC, Hibernate, ReSTful Services
+2.	Front-End: HTML5, CSS3, jQuery, Bootstrap, Angular (or React)
+3.	Tools: JDK, Maven, Node.js/NPM, GIT, Jenkins, Docker
+4.	Single Page Application (SPA) using Angular with REST callbacks for data access
+5.	Responsive Web Design using Bootstrap
+6.	Models, Routes, Views and Controllers
+7.	Well-designed Database Tables and Parameterized Stored Procedures if RDBMS is used
+8.	CRUD REST API functionality with Spring Boot, Spring-Data JPA
+9.	Authentication and Authorization
